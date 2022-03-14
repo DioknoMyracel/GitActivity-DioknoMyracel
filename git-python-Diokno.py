@@ -1,3 +1,6 @@
 print ("Myracel Jalac Diokno")
 print ("Hinanggayon , Mogpog, Marinduque")
 print ("November 28, 1999")
+print ("Marinduque State College")
+print ("Bachelor of Science in Information Technology")
+print ("Second Year - Section B")
